@@ -14,7 +14,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
     "markdown-it-container": "^2.0.0",
     "moment": "^2.24.0",
-    "postcss": "^7.0.27",
+    "postcss": "^8.2.10",
     "postcss-css-variables": "^0.14.0",
     "postcss-for": "https://github.com/wuz/postcss-for",
     "postcss-functions": "^3.0.0",
